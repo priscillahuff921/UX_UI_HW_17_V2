@@ -1,9 +1,9 @@
-inline-block {
+.inline-block {
     display: inline-block;
     vertical-align: top;
 }
 
-div.logo {
+.logo {
     width: 23%;
     padding: 1%;
 }
@@ -16,10 +16,6 @@ nav {
 ul {
     width: 50%;
     margin-left: auto;
-}
-
-img.logo {
-    text-align:center;
 }
 
 section.heroImg {
@@ -36,7 +32,7 @@ footer {
     background-color: #373738;
 }
 
-footer.ul {
+footer ul {
     display: inline-block;
     vertical-align: top;
 }
